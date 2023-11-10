@@ -1,6 +1,5 @@
-package com.springboot.application5.model;
+package com.springboot.application6.model;
 
-import com.fasterxml.jackson.annotation.JsonIgnore;
 import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.NoArgsConstructor;

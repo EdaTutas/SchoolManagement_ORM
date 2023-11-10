@@ -1,4 +1,4 @@
-package com.springboot.application5;
+package com.springboot.application6;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

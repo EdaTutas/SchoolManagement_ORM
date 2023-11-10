@@ -1,6 +1,6 @@
-package com.springboot.application5.repository;
+package com.springboot.application6.repository;
 
-import com.springboot.application5.model.Instructor;
+import com.springboot.application6.model.Instructor;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

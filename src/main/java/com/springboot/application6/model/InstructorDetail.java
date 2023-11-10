@@ -1,4 +1,4 @@
-package com.springboot.application5.model;
+package com.springboot.application6.model;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import jakarta.persistence.*;
